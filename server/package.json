@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@serialport/bindings": "^9.2.8",
+    "@serialport/parser-readline": "^9.2.4",
+    "serialport": "^9.2.8",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.4",
+    "ws": "^8.4.2"
+  }
+}
